@@ -5,20 +5,8 @@
 
 
 <head> 
-<title>个人本地用网站导航</title> 
 <h2 style="font-family:verdana">网站导航</br></br></h2>
 <base target="_blank">  <!--这是一段注释。以上代码定义超链接在新窗口打开-->
-<style> 
-a:link,a:visited
-{ text-decoration:none; } /*超链接无下划线*/
-a:hover{ text-decoration:none; } /*鼠标放上去有下划线:下划线代码 underline */
-/*以上代码定义超链接下划线*/
-a{ color:#00F} /* 正常链接的样式 */ 
-a:visited{ color:	#00F} /* 已经访问过链接的颜色 */ 
-a:hover{ color:#F00}/* 鼠标经过悬停字体颜色 */ 
-a:active{ color:#000000} /* 鼠标点击链接时的样式 */ 
-/*以上代码定义超链接字体颜色 */ 
-</style> 
 </head>
 <!--这是一段注释。分割线-----------------------------------------------------------------分割线-->
 
